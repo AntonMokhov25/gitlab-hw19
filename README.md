@@ -108,7 +108,7 @@ storage ansible_host=<внешний ip-адрес> fqdn=<полное доме�
 
 ### Решение
 
-<img width="1101" height="321" alt="image" src="https://github.com/user-attachments/assets/0688c827-5588-46fd-883e-5f479288612e" 
+<img width="1101" height="321" alt="image" src="https://github.com/user-attachments/assets/0688c827-5588-46fd-883e-5f479288612e">
   https://github.com/AntonMokhov25/ter-homeworks/tree/terraform-03
 
 
